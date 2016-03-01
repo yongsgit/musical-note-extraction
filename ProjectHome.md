@@ -1,0 +1,1 @@
+Used MATLAB to extract musical notes from an instrumental music fed as input. Used the Fourier Transforms to extract the frequency components nd then classify them to the respective notes based on the frequency components of the music.
